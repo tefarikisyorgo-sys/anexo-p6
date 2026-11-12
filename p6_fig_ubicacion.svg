@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='547.20pt' height='216.00pt' viewBox='0 0 547.20 216.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1NDcuMjB8MC4wMHwyMTYuMDA='>
+    <rect x='0.00' y='0.00' width='547.20' height='216.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1NDcuMjB8MC4wMHwyMTYuMDA=)'>
+<rect x='0.00' y='0.00' width='547.20' height='216.00' style='stroke-width: 0.75; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpMC4wMHw1NDcuMjB8MTYuODF8MjE2LjAw'>
+    <rect x='0.00' y='16.81' width='547.20' height='199.19' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1NDcuMjB8MTYuODF8MjE2LjAw)'>
+<line x1='97.83' y1='113.38' x2='117.73' y2='113.38' style='stroke-width: 0.85; stroke: #52514E; stroke-linecap: butt;' />
+<polygon points='113.42,115.88 117.73,113.38 113.42,110.89 ' style='stroke-width: 0.85; stroke: #52514E; stroke-linecap: butt; fill: #52514E;' />
+<line x1='180.74' y1='113.38' x2='200.64' y2='113.38' style='stroke-width: 0.85; stroke: #52514E; stroke-linecap: butt;' />
+<polygon points='196.33,115.88 200.64,113.38 196.33,110.89 ' style='stroke-width: 0.85; stroke: #52514E; stroke-linecap: butt; fill: #52514E;' />
+<line x1='263.65' y1='113.38' x2='283.55' y2='113.38' style='stroke-width: 0.85; stroke: #52514E; stroke-linecap: butt;' />
+<polygon points='279.24,115.88 283.55,113.38 279.24,110.89 ' style='stroke-width: 0.85; stroke: #52514E; stroke-linecap: butt; fill: #52514E;' />
+<line x1='346.56' y1='113.38' x2='366.46' y2='113.38' style='stroke-width: 0.85; stroke: #52514E; stroke-linecap: butt;' />
+<polygon points='362.14,115.88 366.46,113.38 362.14,110.89 ' style='stroke-width: 0.85; stroke: #52514E; stroke-linecap: butt; fill: #52514E;' />
+<line x1='429.47' y1='113.38' x2='449.37' y2='113.38' style='stroke-width: 0.85; stroke: #52514E; stroke-linecap: butt;' />
+<polygon points='445.05,115.88 449.37,113.38 445.05,110.89 ' style='stroke-width: 0.85; stroke: #52514E; stroke-linecap: butt; fill: #52514E;' />
+<rect x='34.82' y='98.29' width='63.01' height='30.18' style='stroke-width: 0.21; stroke: #CFCFCA; stroke-linecap: butt; stroke-linejoin: miter; fill: #F4F4F2;' />
+<rect x='117.73' y='98.29' width='63.01' height='30.18' style='stroke-width: 0.21; stroke: #CFCFCA; stroke-linecap: butt; stroke-linejoin: miter; fill: #F4F4F2;' />
+<rect x='200.64' y='98.29' width='63.01' height='30.18' style='stroke-width: 0.21; stroke: #CFCFCA; stroke-linecap: butt; stroke-linejoin: miter; fill: #F4F4F2;' />
+<rect x='283.55' y='98.29' width='63.01' height='30.18' style='stroke-width: 0.21; stroke: #CFCFCA; stroke-linecap: butt; stroke-linejoin: miter; fill: #F4F4F2;' />
+<rect x='366.46' y='98.29' width='63.01' height='30.18' style='stroke-width: 0.21; stroke: #CFCFCA; stroke-linecap: butt; stroke-linejoin: miter; fill: #F4F4F2;' />
+<rect x='449.37' y='98.29' width='63.01' height='30.18' style='stroke-width: 0.21; stroke: #CFCFCA; stroke-linecap: butt; stroke-linejoin: miter; fill: #E8F0FB;' />
+<text x='66.33' y='116.59' text-anchor='middle' style='font-size: 8.82px;fill: #0B0B0B; font-family: "Liberation Sans";' textLength='32.40px' lengthAdjust='spacingAndGlyphs'>Portada</text>
+<text x='149.24' y='111.83' text-anchor='middle' style='font-size: 8.82px;fill: #0B0B0B; font-family: "Liberation Sans";' textLength='47.37px' lengthAdjust='spacingAndGlyphs'>Búsqueda /</text>
+<text x='149.24' y='121.35' text-anchor='middle' style='font-size: 8.82px;fill: #0B0B0B; font-family: "Liberation Sans";' textLength='30.27px' lengthAdjust='spacingAndGlyphs'>Listado</text>
+<text x='232.15' y='116.59' text-anchor='middle' style='font-size: 8.82px;fill: #0B0B0B; font-family: "Liberation Sans";' textLength='38.04px' lengthAdjust='spacingAndGlyphs'>Producto</text>
+<text x='315.05' y='116.59' text-anchor='middle' style='font-size: 8.82px;fill: #0B0B0B; font-family: "Liberation Sans";' textLength='28.32px' lengthAdjust='spacingAndGlyphs'>Carrito</text>
+<text x='397.96' y='116.59' text-anchor='middle' style='font-size: 8.82px;fill: #0B0B0B; font-family: "Liberation Sans";' textLength='40.04px' lengthAdjust='spacingAndGlyphs'>Checkout</text>
+<text x='480.87' y='116.59' text-anchor='middle' style='font-size: 8.82px;fill: #0B0B0B; font-family: "Liberation Sans";' textLength='33.10px' lengthAdjust='spacingAndGlyphs'>Compra</text>
+<circle cx='232.15' cy='167.71' r='7.82' style='stroke-width: 0.71; stroke: #2A78D6; fill: #2A78D6;' />
+<circle cx='273.60' cy='62.08' r='7.82' style='stroke-width: 0.71; stroke: #2A78D6; fill: #2A78D6;' />
+<circle cx='356.51' cy='62.08' r='7.82' style='stroke-width: 0.71; stroke: #2A78D6; fill: #2A78D6;' />
+<text x='232.15' y='171.23' text-anchor='middle' style='font-size: 9.67px; font-weight: bold;fill: #FFFFFF; font-family: "Liberation Sans";' textLength='4.17px' lengthAdjust='spacingAndGlyphs'>1</text>
+<text x='273.60' y='65.59' text-anchor='middle' style='font-size: 9.67px; font-weight: bold;fill: #FFFFFF; font-family: "Liberation Sans";' textLength='6.09px' lengthAdjust='spacingAndGlyphs'>2</text>
+<text x='356.51' y='65.59' text-anchor='middle' style='font-size: 9.67px; font-weight: bold;fill: #FFFFFF; font-family: "Liberation Sans";' textLength='6.24px' lengthAdjust='spacingAndGlyphs'>3</text>
+<text x='232.15' y='191.61' text-anchor='middle' style='font-size: 8.25px;fill: #0B0B0B; font-family: "Liberation Sans";' textLength='72.96px' lengthAdjust='spacingAndGlyphs'>Retener en la ficha</text>
+<text x='232.15' y='200.52' text-anchor='middle' style='font-size: 8.25px;fill: #0B0B0B; font-family: "Liberation Sans";' textLength='120.61px' lengthAdjust='spacingAndGlyphs'>(baja la salida desde Producto)</text>
+<text x='273.60' y='42.14' text-anchor='middle' style='font-size: 8.25px;fill: #0B0B0B; font-family: "Liberation Sans";' textLength='73.08px' lengthAdjust='spacingAndGlyphs'>De la ficha al carro</text>
+<text x='356.51' y='42.14' text-anchor='middle' style='font-size: 8.25px;fill: #0B0B0B; font-family: "Liberation Sans";' textLength='66.54px' lengthAdjust='spacingAndGlyphs'>Del carro al pago</text>
+<line x1='273.60' y1='75.96' x2='273.60' y2='95.28' style='stroke-width: 0.85; stroke: #2A78D6; stroke-linecap: butt;' />
+<line x1='356.51' y1='75.96' x2='356.51' y2='95.28' style='stroke-width: 0.85; stroke: #2A78D6; stroke-linecap: butt;' />
+<line x1='232.15' y1='150.81' x2='232.15' y2='129.68' style='stroke-width: 0.85; stroke: #2A78D6; stroke-linecap: butt;' />
+</g>
+<g clip-path='url(#cpMC4wMHw1NDcuMjB8MC4wMHwyMTYuMDA=)'>
+<text x='0.00' y='14.21' style='font-size: 12.00px; font-weight: bold;fill: #0B0B0B; font-family: "Liberation Sans";' textLength='312.57px' lengthAdjust='spacingAndGlyphs'>Dónde se ubican las tres intervenciones en el journey</text>
+</g>
+</svg>
